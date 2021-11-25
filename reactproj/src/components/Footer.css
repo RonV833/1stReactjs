@@ -1,0 +1,12 @@
+footer {
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+    font-weight: 200;
+    font-size: 1em;
+    color: black;
+    
+}
+.addfooter {
+    color: green;
+}
